@@ -5,7 +5,7 @@
 
 ## General ideas
 - being metrics driven; MacOS screen time can be used to measure time in each app; for me Chrome is always the highest, then IntelliJ
-- when exploring any new tool start with a mouse and slowly move towards keyboard (most common actions first)
+- when exploring any new tool start with a mouse and slowly move towards keyboard (use shortcuts for the most common actions first)
 
 ## MacOS
 - Raycast 
