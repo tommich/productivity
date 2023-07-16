@@ -8,7 +8,7 @@
 - when exploring any new tool start with a mouse and slowly move towards keyboard (use shortcuts for the most common actions first)
 
 ## MacOS
-- Raycast 
+- Raycast (Alfred replacement)
   - Extensions
     - so many
   - Built-in
