@@ -18,14 +18,15 @@
   - moving cursor with keyboard
   - window management 
   - "close window" action that is impossible to perform with MacOS
-- AltTab
+- AltTab (very usefull window switcher)
 - CleanShotX
+- yabai (window manager)
 
 ## Chrome
 - Extensions
     - vimium/surfingkeys
     - tabXpert
-    - "Open Multiple URLs"
+    - "Open Multiple URLs" extension
     - TabCopy
     - ExtensionManager
     - Tab to window
@@ -37,15 +38,16 @@
   - selecting multiple tabs with the mouse
 
 ## Terminal
-
+- alacritty
 - fzf
 - zsh
-- rip
+- lf
+- rip, probably better to use trash-cli
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - [video](https://www.youtube.com/watch?v=CF1tMjvHDRA&ab_channel=JoseanMartinez)
 
 ## VSCode
 - foam (vs Obsidian)
-- rest client
+- http rest client
 
 ## Keyboard 
 - [warpd](https://github.com/rvaiya/warpd) (advanced)
